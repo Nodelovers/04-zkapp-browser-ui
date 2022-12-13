@@ -230,7 +230,7 @@ a {
 	height: 60px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 430px;
 }
 
 .Home_connectBtn__q4_OB:hover {
@@ -242,7 +242,7 @@ a {
 	height: 60px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 430px;
 }
 
 .Home_connectBtn__q4_OB:active {
@@ -254,7 +254,7 @@ a {
 	height: 60px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 430px;
 }
 
 .Home_loadingBtn__vAScy {
@@ -266,7 +266,7 @@ a {
 	height: 73px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 430px;
 }
 
 .Home_loading__IsZ5F {
@@ -277,8 +277,8 @@ a {
 	width: 150px;
 	height: 95px;
 	position: absolute;
-	left: 305px;
-	top: 50px;
+	left: 370px;
+	top: 160px;
 }
 
 .Home_getLoading__Ml8Nf {
@@ -298,11 +298,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.aecc2f19.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 250px;
-	height: 250px;
+	width: 80px;
+	height: 80px;
 	position: absolute;
 	left: 330px;
-	top: 110px;
+	top: 125px;
 }
 
 .Home_sendCheck__xMz4p {
@@ -314,7 +314,7 @@ a {
 	height: 35px;
 	position: absolute;
 	left: 295px;
-	top: 325px;
+	top: 385px;
 }
 
 .Home_sendDone__abENy {
@@ -350,7 +350,7 @@ a {
 	height: 130px;
 	position: absolute;
 	left: 370px;
-	top: 120px;
+	top: 100px;
 }
 
 .Home_statusTxt__dVex8 {
