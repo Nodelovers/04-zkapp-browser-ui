@@ -226,8 +226,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn1.eeba0970.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 60px;
+	width: 180px;
+	height: 80px;
 	position: absolute;
 	left: 380px;
 	top: 430px;
@@ -238,8 +238,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn2.40f707d0.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 60px;
+	width: 180px;
+	height: 80px;
 	position: absolute;
 	left: 380px;
 	top: 430px;
@@ -250,8 +250,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/connectBtn3.e3d1d276.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 60px;
+	width: 180px;
+	height: 80px;
 	position: absolute;
 	left: 380px;
 	top: 430px;
@@ -298,11 +298,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.aecc2f19.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 80px;
-	height: 80px;
+	width: 150px;
+	height: 150px;
 	position: absolute;
-	left: 330px;
-	top: 125px;
+	left: 390px;
+	top: 185px;
 }
 
 .Home_sendCheck__xMz4p {
@@ -349,8 +349,8 @@ a {
 	width: 130px;
 	height: 130px;
 	position: absolute;
-	left: 370px;
-	top: 100px;
+	left: 390px;
+	top: 150px;
 }
 
 .Home_statusTxt__dVex8 {
