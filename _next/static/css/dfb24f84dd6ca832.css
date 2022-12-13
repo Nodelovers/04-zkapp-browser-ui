@@ -227,7 +227,7 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 160px;
-	height: 73px;
+	height: 60px;
 	position: absolute;
 	left: 380px;
 	top: 450px;
@@ -239,7 +239,7 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 160px;
-	height: 73px;
+	height: 60px;
 	position: absolute;
 	left: 380px;
 	top: 450px;
@@ -251,7 +251,7 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 160px;
-	height: 73px;
+	height: 60px;
 	position: absolute;
 	left: 380px;
 	top: 450px;
@@ -271,11 +271,11 @@ a {
 
 .Home_loading__IsZ5F {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.a56f2d2f.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.99334646.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 300px;
-	height: 300px;
+	width: 150px;
+	height: 95px;
 	position: absolute;
 	left: 305px;
 	top: 50px;
@@ -283,11 +283,11 @@ a {
 
 .Home_getLoading__Ml8Nf {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.9735405e.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.aecc2f19.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 280px;
-	height: 280px;
+	width: 100px;
+	height: 100px;
 	position: absolute;
 	left: 315px;
 	top: 150px;
@@ -295,7 +295,7 @@ a {
 
 .Home_sendLoading__Zkd01 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.9735405e.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.aecc2f19.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 250px;
@@ -346,8 +346,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/succes.7e3ab45f.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 180px;
-	height: 180px;
+	width: 130px;
+	height: 130px;
 	position: absolute;
 	left: 370px;
 	top: 120px;
